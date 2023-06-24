@@ -1,0 +1,18 @@
+.navbar {
+    border-radius: 10px;
+  }
+  
+  .navbar .nav-link:hover {
+    background-color: white !important;
+    border-radius: 10px;
+    color: black !important;
+    font-weight: bold;
+  }
+  
+  .navbar .nav-link.active {
+    background-color: white !important;
+    border-radius: 10px;
+    color: black !important;
+    font-weight: bold;
+  }
+  
